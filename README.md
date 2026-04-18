@@ -46,15 +46,14 @@ secure-login-system/
 
 ## Future Improvements
 
-- Add database (SQLite / MySQL)
-- Implement user sessions & logout
-- Add frontend UI (HTML/CSS/React)
-- Deploy the application online
+-Add database integration (SQLite / MySQL)
+-Implement user sessions and logout functionality
+-Build a frontend UI (HTML/CSS or React)
+-Deploy the application (Render / AWS / Heroku)
+-Replace SHA-256 with stronger hashing (e.g., bcrypt)
 
 Author
 
 Tanishka Vatsa
 https://github.com/Tanishka267
-## ▶️ How to Run the Project
 
-1. Install dependenc
